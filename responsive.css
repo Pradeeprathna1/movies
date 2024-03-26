@@ -1,0 +1,18 @@
+
+@media screen and (max-width : 600px) {
+
+    .container {
+        font-size: 16px;
+    }
+
+    .info {
+        grid-template-columns: 1fr;
+    }
+
+    .poster {
+        margin: auto;
+        width: auto;
+        max-height: 10.8em;
+    }
+    
+}
